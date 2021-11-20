@@ -42,7 +42,7 @@ class Bill_App:
 
 
         #===================================
-        bg_color = "green"
+        bg_color = "Purple"
         fg_color = "white"
         lbl_color = 'white'
         #Title of App
