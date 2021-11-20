@@ -1,0 +1,12 @@
+
+Bill No: 6640
+Name: Happy
+Phone: 32532436
+===================================
+Product          Qty         Price
+Hotdog        10          	RS=60
+Salt              10             RS=10
+Rice             10             RS=30
+Waffer        10             RS=20
+===================================
+ Total :  RS=126.0
