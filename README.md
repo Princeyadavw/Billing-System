@@ -1,2 +1,1 @@
-# Praharsh-kumar
-Billing System 
+Billing System (Grocery store)
