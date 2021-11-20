@@ -10,7 +10,7 @@ Functionalities:
 
 .Total bill along with sub-total and tax is displayed.
 
-.A calculator in the right side for quick access.
+.A calculator in the left side for quick access.
 
 .Displaying of receipt showing prices of each item and its quantity.
 
